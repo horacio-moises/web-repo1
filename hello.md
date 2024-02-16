@@ -1,3 +1,3 @@
 # Teste
 
-meu primeiro pull
+*meu primeiro pull
